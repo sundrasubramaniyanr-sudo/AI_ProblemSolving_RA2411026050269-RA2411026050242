@@ -9,5 +9,6 @@ Uniform Cost Search
 ## How to Run
 streamlit run app.py
 
-## Output
-Displays optimal path and total cost
+## Sample Output
+Optimal Path: A → B → D → F  
+Total Cost: 6

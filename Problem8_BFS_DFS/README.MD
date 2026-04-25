@@ -10,5 +10,6 @@ This program finds path using BFS and DFS.
 ## How to Run
 streamlit run app.py
 
-## Output
-Shows path from start to goal
+## Sample Output
+BFS Path: A → B → D → E  
+DFS Path: A → C → D → E
