@@ -16,14 +16,10 @@
 - Finds lowest cost path
 - GUI using Streamlit
 
-## How to Run
+## Live Demo Links
 
-Install dependencies:
-pip install streamlit
+Problem 8:
+https://aiproblemsolvingra2411026050269-ra2411026050242-qgeumajzeejuku.streamlit.app/
 
-Run programs:
-cd Problem8_BFS_DFS
-streamlit run app.py
-
-cd Problem10_UCS
-streamlit run app.py
+Problem 10:
+https://aiproblemsolvingra2411026050269-ra2411026050242-rn3wraucvfo5zg.streamlit.app/
