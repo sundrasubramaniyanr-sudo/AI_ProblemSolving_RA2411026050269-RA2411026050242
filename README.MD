@@ -4,19 +4,7 @@
 - RA2411026050269
 - RA2411026050242
 
-## Problems Implemented
-
-### Problem 8: Smart Navigation System
-- Algorithms: BFS, DFS
-- Finds path between nodes
-- GUI using Streamlit
-
-### Problem 10: Uniform Cost Search
-- Algorithm: UCS
-- Finds lowest cost path
-- GUI using Streamlit
-
-## Live Demo Links
+## Website Links
 
 Problem 8:
 https://aiproblemsolvingra2411026050269-ra2411026050242-qgeumajzeejuku.streamlit.app/
@@ -24,6 +12,20 @@ https://aiproblemsolvingra2411026050269-ra2411026050242-qgeumajzeejuku.streamlit
 Problem 10:
 https://aiproblemsolvingra2411026050269-ra2411026050242-rn3wraucvfo5zg.streamlit.app/
 
+
+## Problem Description And Algorithms
+
+### Problem 8: Smart Navigation System
+- Finds path between nodes
+- GUI using Streamlit
+
+- Algorithms: BFS, DFS
+
+### Problem 10: Uniform Cost Search
+- Finds lowest cost path
+- GUI using Streamlit
+
+- Algorithm: UCS
 
 ## How to Run
 
