@@ -23,3 +23,19 @@ https://aiproblemsolvingra2411026050269-ra2411026050242-qgeumajzeejuku.streamlit
 
 Problem 10:
 https://aiproblemsolvingra2411026050269-ra2411026050242-rn3wraucvfo5zg.streamlit.app/
+
+
+## How to Run
+
+pip install streamlit  
+streamlit run app.py
+
+## Sample Output
+
+Problem 8:
+BFS Path: A → B → D → E  
+DFS Path: A → C → D → E  
+
+Problem 10:
+Optimal Path: A → B → D → F  
+Total Cost: 6
